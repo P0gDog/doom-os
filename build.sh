@@ -5,7 +5,7 @@ echo "[1/6] Installing dependencies..."
 sudo apt install -y gcc build-essential linux-libc-dev grub-pc-bin grub-efi-amd64-bin xorriso mtools busybox-static wget
 
 echo "[2/6] Cloning doomgeneric-fb..."
-git clone https://github.com/YOUR_USERNAME/doomgeneric-fb doomgeneric
+git clone https://github.com/P0gDog/doomgeneric-fb doomgeneric
 cp -f doomgeneric-fb/doomgeneric_fb.c doomgeneric/doomgeneric_fb.c
 
 echo "[3/6] Building DOOM..."
