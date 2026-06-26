@@ -14,7 +14,7 @@ A minimal Linux-based OS that boots directly into DOOM. No init system, no displ
 
 ## Requirements
 - WSL2 Ubuntu (or any Ubuntu 22.04+)
-- A `doom1.wad` file (shareware, freely available)
+- A `doom1.wad` file (https://www.doomarchive.com/ListFiles.php?FolderId=216&ContentsFolderId=216)
 
 ## Build
 ```bash
